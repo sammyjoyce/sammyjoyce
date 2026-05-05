@@ -1,23 +1,23 @@
 # Sam Joyce
 
-Systems-leaning software engineer in Australia. I mostly work around Zig, C, TypeScript, Swift/macOS, Nix, and developer tooling.
+Systems dev. AU. Zig, C, TS, Swift/macOS, Nix, devtools.
 
-I like small tools with sharp edges removed: local-first systems, CLIs, agent workflows, terminal tooling, build/release plumbing, and experiments that make machines feel more directly programmable.
+Small tools, sharp edges off. Local-first. CLIs. Agent workflows. Terminal stuff. Build/release plumbing. Make machine more programmable.
 
-## Current public threads
+## Threads
 
-- **Zig / C systems tools** — small libraries, CLI templates, service experiments, and runtime ergonomics.
-- **AI / dev workflow tooling** — bridges, hooks, research automation, and repo-local agent workflows.
-- **macOS + local tooling** — Swift/macOS utilities, editor/workstation config, and local-first app infrastructure.
-- **Nix / reproducible environments** — flakes, machine setup, and hardware-specific packaging experiments.
+- **Zig / C systems** — libs, CLI templates, services, runtime ergonomics.
+- **AI / dev workflow** — bridges, hooks, research loops, repo-local agents.
+- **macOS / local** — Swift utils, editor config, local-first infra.
+- **Nix / reproducible** — flakes, machine setup, hardware packaging.
 
-## Repos worth starting with
+## Start here
 
-- [aktorz](https://github.com/sammyjoyce/aktorz) — single-threaded stateful services in Zig.
-- [sly](https://github.com/sammyjoyce/sly) — shell-oriented AI command generation.
-- [c23-cli-template](https://github.com/sammyjoyce/c23-cli-template) — modern C23 CLI starter.
-- [ghbak](https://github.com/sammyjoyce/ghbak) — GitHub owner backup tooling.
-- [rocm-nightly-flake](https://github.com/sammyjoyce/rocm-nightly-flake) — ROCm nightly tarballs as a Nix flake.
-- [cchd](https://github.com/sammyjoyce/cchd) — Claude Code hook events to HTTP.
+- [aktorz](https://github.com/sammyjoyce/aktorz) — Zig. Single-threaded stateful services.
+- [sly](https://github.com/sammyjoyce/sly) — shell AI cmd gen.
+- [c23-cli-template](https://github.com/sammyjoyce/c23-cli-template) — C23 CLI starter.
+- [ghbak](https://github.com/sammyjoyce/ghbak) — GitHub owner backup.
+- [rocm-nightly-flake](https://github.com/sammyjoyce/rocm-nightly-flake) — ROCm nightly -> Nix flake.
+- [cchd](https://github.com/sammyjoyce/cchd) — Claude Code hooks -> HTTP.
 
-Most repos here are experiments or personal tools unless the README says otherwise.
+Most repos = experiments. README say otherwise if not.
