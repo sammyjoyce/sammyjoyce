@@ -1,23 +1,16 @@
 # Sam Joyce
 
-Systems dev. AU. Zig, C, TS, Swift/macOS, Nix, devtools.
+I'm Lead AI Engineer at Pluss Communities, based in Australia.
 
-Small tools, sharp edges off. Local-first. CLIs. Agent workflows. Terminal stuff. Build/release plumbing. Make machine more programmable.
+I design and build software products and AI systems. My work spans product design, web and mobile applications, native desktop software, backend services, and infrastructure.
 
-## Threads
+I fine-tune and evaluate language models, build systems that coordinate AI agents, and integrate AI into software products.
 
-- **Zig / C systems** — libs, CLI templates, services, runtime ergonomics.
-- **AI / dev workflow** — bridges, hooks, research loops, repo-local agents.
-- **macOS / local** — Swift utils, editor config, local-first infra.
-- **Nix / reproducible** — flakes, machine setup, hardware packaging.
+## Selected public projects
 
-## Start here
+- [openquick](https://github.com/sammyjoyce/openquick) — A platform for hosting private web applications, with identity, storage, realtime data, and deployment tools.
+- [aktorz](https://github.com/sammyjoyce/aktorz) — A Zig library for stateful services, with SQLite persistence and TypeScript bindings.
+- [figma-design-generation](https://github.com/sammyjoyce/figma-design-generation) — An agent skill for creating editable Figma screens and design systems.
+- [rocm-nightly-flake](https://github.com/sammyjoyce/rocm-nightly-flake) — Packages ROCm nightly builds for AMD Strix Halo as a Nix flake.
 
-- [aktorz](https://github.com/sammyjoyce/aktorz) — Zig. Single-threaded stateful services.
-- [sly](https://github.com/sammyjoyce/sly) — shell AI cmd gen.
-- [c23-cli-template](https://github.com/sammyjoyce/c23-cli-template) — C23 CLI starter.
-- [ghbak](https://github.com/sammyjoyce/ghbak) — GitHub owner backup.
-- [rocm-nightly-flake](https://github.com/sammyjoyce/rocm-nightly-flake) — ROCm nightly -> Nix flake.
-- [cchd](https://github.com/sammyjoyce/cchd) — Claude Code hooks -> HTTP.
-
-Most repos = experiments. README say otherwise if not.
+Many of my public repositories are experiments. See each README for project status and setup instructions.
