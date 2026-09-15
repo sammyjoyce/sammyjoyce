@@ -1,23 +1,16 @@
 # Sam Joyce
 
-Systems dev. AU. Zig, C, TS, Swift/macOS, Nix, devtools.
+I'm a software developer in Australia. I build command-line tools, stateful services, and integrations for AI coding agents. I work with Zig, C, TypeScript, Swift, and Nix.
 
-Small tools, sharp edges off. Local-first. CLIs. Agent workflows. Terminal stuff. Build/release plumbing. Make machine more programmable.
+I'm interested in software that runs locally, reproducible development environments, and automating routine development tasks.
 
-## Threads
+## Projects
 
-- **Zig / C systems** — libs, CLI templates, services, runtime ergonomics.
-- **AI / dev workflow** — bridges, hooks, research loops, repo-local agents.
-- **macOS / local** — Swift utils, editor config, local-first infra.
-- **Nix / reproducible** — flakes, machine setup, hardware packaging.
+- [aktorz](https://github.com/sammyjoyce/aktorz) — A Zig library for stateful services, with SQLite persistence and TypeScript bindings.
+- [sly](https://github.com/sammyjoyce/sly) — Generates shell commands from natural language using local or hosted AI models.
+- [curspan](https://github.com/sammyjoyce/curspan) — A C23 framework for command-line tools and terminal interfaces, using Zig's build system.
+- [ghbak](https://github.com/sammyjoyce/ghbak) — Backs up Git history and Git LFS objects for repositories in a GitHub organisation.
+- [rocm-nightly-flake](https://github.com/sammyjoyce/rocm-nightly-flake) — Packages ROCm nightly builds for AMD Strix Halo as a Nix flake.
+- [cchd](https://github.com/sammyjoyce/cchd) — Sends Claude Code hook events to an HTTP server and applies the server's decisions.
 
-## Start here
-
-- [aktorz](https://github.com/sammyjoyce/aktorz) — Zig. Single-threaded stateful services.
-- [sly](https://github.com/sammyjoyce/sly) — shell AI cmd gen.
-- [c23-cli-template](https://github.com/sammyjoyce/c23-cli-template) — C23 CLI starter.
-- [ghbak](https://github.com/sammyjoyce/ghbak) — GitHub owner backup.
-- [rocm-nightly-flake](https://github.com/sammyjoyce/rocm-nightly-flake) — ROCm nightly -> Nix flake.
-- [cchd](https://github.com/sammyjoyce/cchd) — Claude Code hooks -> HTTP.
-
-Most repos = experiments. README say otherwise if not.
+Most of my repositories are experiments. See each README for setup instructions and project status.
