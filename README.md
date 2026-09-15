@@ -1,6 +1,8 @@
 # Sam Joyce
 
-I'm a software developer in Australia. I build command-line tools, stateful services, and integrations for AI coding agents. I work with Zig, C, TypeScript, Swift, and Nix.
+I'm Lead AI Engineer at Pluss Communities, based in Australia.
+
+I build command-line tools, stateful services, and integrations for AI coding agents. I work with Zig, C, TypeScript, Swift, and Nix.
 
 I'm interested in software that runs locally, reproducible development environments, and automating routine development tasks.
 
